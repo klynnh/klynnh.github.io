@@ -1,2 +1,2 @@
-# klynnh.github.io
-Computer Science Website Project
+# kylieheisz.github.io
+Portfolio
