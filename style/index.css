@@ -3,26 +3,26 @@ body{
 }
 
 h1 {
-font-family: 'Helvetica',
+font-family: 'Helvetica', header;
 color: #000000;
 text-align: center;
 }
 
 h2 {
-font-family: 'Comfortaa', cursive;
-color: #ff80ab;
+font-family: 'Helvetica', header;
+color: #000000;
 text-align: center;
 }
 
 h3 {
-font-family: 'Amatic SC', cursive;
+font-family: 'Palatino', body;
 color: #80bfaa;
 font-size: 21pt;
 text-align: center;
 }
 
 h4{
-font-family: 'Amatic SC', cursive;
+font-family: 'Palatino', body;
 color: #80bfaa;
 font-size: 17pt;
 text-align: center;
